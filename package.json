@@ -9,6 +9,8 @@
   "author": "Lemonxu",
   "license": "ISC",
   "dependencies": {
+    "@tinymce/tinymce-vue": "^3.2.8",
+    "tinymce": "^5.10.8",
     "vue": "^2.7.15"
   }
 }
